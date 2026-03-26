@@ -11,7 +11,7 @@ it was also my first time making a loading screen and I'm pleased with the final
 :D
 
 *Requirments:
-1.pip 25.1.1
-2.qrcode 8.2
-3.Pillow 12.1.1
-4.Colorama 0.4.6
+1. pip 25.1.1
+2. qrcode 8.2
+3. Pillow 12.1.1
+4. Colorama 0.4.6
