@@ -10,8 +10,7 @@ this QR-code generator works with:
 it was also my first time making a loading screen and I'm pleased with the final resault!
 :D
 
-
-________
+_______________
 
 *Requirments:
 1. python 3.14 (or above)
