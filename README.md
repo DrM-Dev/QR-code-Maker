@@ -11,7 +11,6 @@ it was also my first time making a loading screen and I'm pleased with the final
 :D
 
 _______________
-
 *Requirments:
 1. python 3.14 (or above)
 2. qrcode 8.2
